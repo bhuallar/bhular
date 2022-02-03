@@ -321,7 +321,7 @@ def menu():
  
     print("\033[1;97m[1]\033[1;92mCrack From Friendlist")
  
-    print("
+    print("")
  
     print("\033[1;97m[3]\033[1;92mCrack From Public id")
  
